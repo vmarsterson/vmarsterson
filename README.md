@@ -1,6 +1,6 @@
 # Hello I'm Verity 👋
 
-I'm an apprentice software engineer with WhiteHat, currently working in the My Sky App team at Sky as an Android Developer in Leeds.
+I work in the My Sky App team at Sky as an Android Developer in Leeds as part of my apprenticeship insoftware engineering with WhiteHat.
 
 ## Some of my favourite projects (pinned below where public) 👩‍💻
 + My first experience of development was a website in HTML and CSS for a two-day conference I ran on the Politics of Cybersecurity with policy makers, civil society and private companies including Google and Quant
