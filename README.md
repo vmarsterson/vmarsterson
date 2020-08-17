@@ -22,8 +22,8 @@ I'm an apprentice software engineer, currently working in the My Sky App team at
 
 ## Fun facts about me 💡
 + I am passionate aboutt diversity and inclusion within tech and therefore:
-&nbsp; Volunteer with Code Your Future to help aslyumn seekers gain valuable coding skills
-&nbsp; Am a member of the D&I group within Sky and am involved in organising events to help support and encourage more people to get into tech
+    + Volunteer with Code Your Future to help aslyumn seekers gain valuable coding skills
+    + Am a member of the D&I group within Sky and am involved in organising events to help support and encourage more people to get into tech
 + I play the mixed gender Dutch sport called Korfball
 + I love walking and have my own walking group to explore more of the Northern countryside
 
