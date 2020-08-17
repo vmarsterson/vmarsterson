@@ -3,9 +3,9 @@
 I'm an apprentice software engineer, currently working in the My Sky App team at Sky as an Android Developer in Leeds.
 
 ## Some of my favourite projects (pinned below where public) 👩‍💻
-+ My first experience of development was a website I designed using solely HTML and CSS for a cybersecurity institute my colleague and I launched in Bordeaux, for which we ran a two day conference on the Politics of Cybersecurity with policy makers, civil society and private companies including Google and Quant
++ My first experience of development was a website I designed using solely HTML and CSS for a cybersecurity institute my colleague and I launched in Bordeaux, for which we ran a two-day conference on the Politics of Cybersecurity with policy makers, civil society and private companies including Google and Quant
 + I built a speaker monitor using a Ruby backend which I used as a management tool to help organise the conference
-+ I worked with my team to create a Dashboard which displayed GitHub PRs with a filtering system using a variety of technologies including React, Javascript, Node, HTML and CSS
++ I worked with my team to create a Dashboard which displayed GitHub PRs with a filtering system using a variety of technologies including React, JavaScript, Node, HTML and CSS
 + I am currently working on my own Android app in Kotlin which will help people learn more about accessibility on Android 
 
 ## Prior to becoming a developer 💼
@@ -16,13 +16,13 @@ I'm an apprentice software engineer, currently working in the My Sky App team at
 ## My qualifications 📖
 + 1st Class Degree in French and Politics
 + BCS Software Development Methodologies Exam
-+ Miscrosoft MTA/MCP HTML 5 with Javascript and CSS3
++ Microsoft MTA/MCP HTML 5 with JavaScript and CSS3
 + A Levels: 2 As (English and Maths) and a B (French)
 + GCSEs: 8 A stars and 2 As 
 
 ## Fun facts about me 💡
-+ I am passionate aboutt diversity and inclusion within tech and therefore:
-    + Volunteer with Code Your Future to help aslyumn seekers gain valuable coding skills
++ I am passionate about diversity and inclusion within tech and therefore:
+    + Volunteer with Code Your Future to help asylumn seekers gain valuable coding skills
     + Am a member of the D&I group within Sky and am involved in organising events to help support and encourage more people to get into tech
 + I play the mixed gender Dutch sport called Korfball
 + I love walking and have my own walking group to explore more of the Northern countryside
