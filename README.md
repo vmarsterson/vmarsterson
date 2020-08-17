@@ -26,9 +26,3 @@ I'm an apprentice software engineer with WhiteHat, currently working in the My S
     + Am a member of the D&I group within Sky and am involved in organising events to help support and encourage more people to get into tech
 + I play the mixed gender Dutch sport called Korfball
 + I love walking and have my own walking group to explore more of the Northern countryside
-
-## Contact me ☕️
-Twitter: @VMarsterson
-LinkedIn: @veritymarsterson
-
-
