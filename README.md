@@ -3,14 +3,14 @@
 I'm an apprentice software engineer with WhiteHat, currently working in the My Sky App team at Sky as an Android Developer in Leeds.
 
 ## Some of my favourite projects (pinned below where public) 👩‍💻
-+ My first experience of development was a website I designed using solely HTML and CSS for a cybersecurity institute my colleague and I launched in Bordeaux, for which we ran a two-day conference on the Politics of Cybersecurity with policy makers, civil society and private companies including Google and Quant
++ My first experience of development was a website in HTML and CSS for a two-day conference I ran on the Politics of Cybersecurity with policy makers, civil society and private companies including Google and Quant
 + I built a speaker monitor using a Ruby backend which I used as a management tool to help organise the conference
-+ I worked with my team to create a Dashboard which displayed GitHub PRs with a filtering system using a variety of technologies including React, JavaScript, Node, HTML and CSS
++ I worked with my team in Sky to create a Dashboard which displayed GitHub PRs using a variety of technologies including React, JavaScript, Node, HTML and CSS
 + I am currently working on my own Android app in Kotlin which will help people learn more about accessibility on Android 
 
 ## Prior to becoming a developer 💼
-+ I worked for a political consultancy in Brussels called FleishmanHillard, helping bridge the gap between tech politics (such as MEPs) and industry (large tech companies such as Apple and Dropbox)
-+ I was the President and Co-Founder of the Bordeaux Institute of International Cybersecurity Studies (BIICS)
++ I worked in Brussels for political consultancy FleishmanHillard, bridging the gap between tech policy (such as MEPs) and industry (e.g. Apple and Dropbox)
++ I was the President and Co-Founder of the [Bordeaux Institute of International Cybersecurity Studies (BIICS)](https://www.linkedin.com/company/bordeaux-institute-of-international-cybersecurity-studies/)
 + I worked as a Research Assistant supporting Senior Lecturer Andrea Calderaro with his studies around Cybersecurity
 
 ## My qualifications 📖
@@ -27,8 +27,7 @@ I'm an apprentice software engineer with WhiteHat, currently working in the My S
 + I play the mixed gender Dutch sport called Korfball
 + I love walking and have my own walking group to explore more of the Northern countryside
 
-## Want to chat? ☕️
-Feel free to reach out to me on:
+## Contact me ☕️
 Twitter: @VMarsterson
 LinkedIn: @veritymarsterson
 
