@@ -14,8 +14,8 @@ I work in the My Sky App team at Sky as an Android Developer in Leeds as part of
 + I worked as a Research Assistant supporting Senior Lecturer Andrea Calderaro with his studies around Cybersecurity
 
 ## My qualifications 📖
-+ 1st Class Degree in French and Politics
-+ BCS Software Development Methodologies Exam
++ 1st Class Degree in French and Politics from Cardiff University
++ BCS Software Development Methodologies
 + Microsoft MTA/MCP HTML 5 with JavaScript and CSS3
 + A Levels: 2 As (English and Maths) and a B (French)
 + GCSEs: 8 A stars and 2 As 
