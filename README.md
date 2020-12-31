@@ -21,8 +21,6 @@ I work in the My Sky App team at Sky as an Android Developer in Leeds as part of
 + GCSEs: 8 A stars and 2 As 
 
 ## Fun facts about me 💡
-+ I am passionate about diversity and inclusion within tech and therefore:
-    + Volunteer with [Code Your Future](https://codeyourfuture.io/) to help refugees and disadvantaged people gain valuable coding skills
-    + Am a member of the D&I group within Sky, organising events to help support and encourage more people to get into tech
++ I am passionate about diversity and inclusion within tech 
 + I play the mixed gender Dutch sport called Korfball
 + I love walking and have my own walking group to explore more of the Northern countryside
