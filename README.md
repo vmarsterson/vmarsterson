@@ -2,11 +2,9 @@
 
 I work in the My Sky App team at Sky as an Android Developer in Leeds
 
-## Some of my favourite projects (pinned below where public) 👩‍💻
-+ My first experience of development was a website in HTML and CSS for a two-day conference I ran on the Politics of Cybersecurity with policy makers, civil society and private companies including Google and Quant
-+ I built a speaker monitor using a Ruby backend which I used as a management tool to help organise the conference
-+ I worked with my team in Sky to create a Dashboard which displayed GitHub PRs using a variety of technologies including React, JavaScript, Node, HTML and CSS
-+ I am currently working on my own Android app in Kotlin which will help people learn more about accessibility on Android 
+## Developer experience
++ I enrolled onto a software engineering apprenticeship in 2019, learning the basics of HTML5, JS, CSS, React, Ruby on Rails, GraphQL
++ Since then I have worked as both a native Kotlin develop and RN developer in the My Sky App team in Sky
 
 ## Prior to becoming a developer 💼
 + I worked in Brussels for political consultancy FleishmanHillard, bridging the gap between tech policy (such as MEPs) and industry (e.g. Apple and Dropbox)
